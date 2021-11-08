@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "615ae68e0d1f2d49a4d5e7a1"
+  },
+  "name": "Continental",
+  "representative": "Marius",
+  "phone": "03213221132",
+  "email": "marius@yahoo.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af37fe0033f31e452b430"
+  },
+  "name": "Hella",
+  "representative": "Marian",
+  "phone": "03123211",
+  "email": "hella@yahoo.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af838e0033f31e452b447"
+  },
+  "name": "dsadas",
+  "representative": "dasdas",
+  "phone": "321321213",
+  "email": "stoicescusebastian@yahoo.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c16418ef44f7c12b5bf"
+  },
+  "name": "dasdsa",
+  "representative": "dasdas",
+  "phone": "312312123",
+  "email": "stoicescusebastian@yahoo.com",
+  "__v": 0
+}]

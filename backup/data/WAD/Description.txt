@@ -1,0 +1,6 @@
+- aplicatie dezvoltata pe MERN stack (MongoDB, Express, React, Node.js)
+- poate fi folosita in receptia unei cladiri mari care ofera sediu mai multor firme cum ar fi de exemplu: United Business Center, pentru a tine track de vizitatorii/outsiderii care intra in cladire.
+Acestia trebuie sa isi treaca pe tableta informatiile despre ei.
+- avem 2 roluri: admin si receptioner. Admin-ul poate sa adauge/editeze/stearga companii noi, 
+conturi noi pentru alti receptioneri si alti admini, sa vizualizeze intrarile(vizitatorii), 
+vizualizeaza toate log-urile(actiunile care se petrec in aplicatie ), in timp ce receptionerii vizualizeaza doar intrarile + edit/delete/update, si tableta, in caz ca vizitatorul nu poate sa isi introduca informatiile singur, o va face receptionerul.

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "606331b5d112f03c44616ec4"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastidas",
+  "email": "admin@yahoo.com",
+  "phone": "736662628",
+  "password": "$2b$10$IEhKTJ9QYGR8rOLYM.aXee1zSbeCsDzp9I1VvVQXwjxqzdpQLGoGi",
+  "__v": 0,
+  "role": "super"
+},{
+  "_id": {
+    "$oid": "615ad4ca0d1f2d49a4d5e78b"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "email": "marian@yahoo.com",
+  "phone": "0312312321",
+  "role": "user",
+  "password": "$2b$10$CmFNBhARnXAFZpoaqIg2QeAwmU.j5AOGcur1vKd2yoL8iNawPFAqW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af444e0033f31e452b437"
+  },
+  "name": "dsadasdas",
+  "surname": "dasasdas",
+  "email": "stoicescusebastian@yahoo.com",
+  "phone": "312312",
+  "role": "user",
+  "password": "$2b$10$ix7zuB0WrhVXlycCQJlD9OZCZdyKcvazw7lqe6AFgm1wDPBiXIFPS",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c55619a422d3b78c23176"
+  },
+  "name": "dsadsadsa",
+  "surname": "dsadas",
+  "email": "dsadasdasadads@yahoo.com",
+  "phone": "32132555",
+  "role": "user",
+  "password": "$2b$10$62oGoYbaGTdkHnTm3ryE7.NhYlIVU9nq48ksLNltpPxiTKpCIYX9y",
+  "__v": 0
+}]

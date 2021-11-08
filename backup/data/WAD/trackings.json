@@ -1,0 +1,1657 @@
+[{
+  "_id": {
+    "$oid": "615acafa428d881444ff1c0a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:35:54.673Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb02428d881444ff1c0b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:36:02.928Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb13428d881444ff1c0c"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:36:19.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb1b428d881444ff1c0d"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:36:27.410Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb35428d881444ff1c0e"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:36:53.228Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb44428d881444ff1c0f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:37:08.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb87428d881444ff1c10"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:38:15.982Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acb96428d881444ff1c11"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:38:30.390Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acba1428d881444ff1c12"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:38:41.693Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acbe0428d881444ff1c13"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:39:44.657Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acce0428d881444ff1c14"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:00.015Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acce6428d881444ff1c15"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:06.236Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acce7428d881444ff1c16"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:07.301Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acce9428d881444ff1c17"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:09.664Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accea428d881444ff1c18"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:10.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accf0428d881444ff1c19"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:16.405Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accf8428d881444ff1c1a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:24.919Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accf9428d881444ff1c1b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:25.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accfa428d881444ff1c1c"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:26.022Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accfa428d881444ff1c1d"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:26.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accfb428d881444ff1c1e"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:27.050Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accfb428d881444ff1c1f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:27.495Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615accfc428d881444ff1c20"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:28.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd0c428d881444ff1c21"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:44.556Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd0d428d881444ff1c22"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:45.043Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd0e428d881444ff1c23"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:46.569Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd0f428d881444ff1c24"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:44:47.618Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd49428d881444ff1c25"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:45:45.799Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acd7b428d881444ff1c26"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:46:35.263Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acee7428d881444ff1c27"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:52:39.138Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acf0d428d881444ff1c28"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:53:17.257Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acf0e428d881444ff1c29"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:53:18.938Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acf8d428d881444ff1c2a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:55:25.439Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615acf96428d881444ff1c2b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T09:55:34.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad1060d1f2d49a4d5e781"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:01:42.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad1090d1f2d49a4d5e782"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:01:45.666Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad1580d1f2d49a4d5e783"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:03:04.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad1a30d1f2d49a4d5e784"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:04:19.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad1b60d1f2d49a4d5e785"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:04:38.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad3490d1f2d49a4d5e786"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:11:21.634Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad3560d1f2d49a4d5e787"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:11:34.648Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad49c0d1f2d49a4d5e788"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:17:00.761Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad4af0d1f2d49a4d5e789"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:17:19.286Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad4b10d1f2d49a4d5e78a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:17:21.706Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad4ca0d1f2d49a4d5e78c"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:17:46.406Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad4f40d1f2d49a4d5e78d"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:18:28.362Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad5040d1f2d49a4d5e78e"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:18:44.445Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad5230d1f2d49a4d5e78f"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:19:15.357Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad5670d1f2d49a4d5e790"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:20:23.135Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad5740d1f2d49a4d5e791"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Editare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:20:36.937Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad57f0d1f2d49a4d5e792"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Ștergere",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:20:47.542Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad7740d1f2d49a4d5e793"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebastian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:29:08.489Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ad79e0d1f2d49a4d5e794"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:29:50.462Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615adb1d0d1f2d49a4d5e795"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:44:45.478Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615adb2a0d1f2d49a4d5e796"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:44:58.813Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615adbfe0d1f2d49a4d5e797"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:48:30.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615adc870d1f2d49a4d5e798"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T10:50:47.114Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae1600d1f2d49a4d5e799"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:11:28.810Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae4d00d1f2d49a4d5e79a"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:26:08.392Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae4d30d1f2d49a4d5e79b"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:26:11.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae50f0d1f2d49a4d5e79c"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:27:11.757Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae5ac0d1f2d49a4d5e79d"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:29:48.300Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae5fb0d1f2d49a4d5e79e"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:31:07.102Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae6200d1f2d49a4d5e79f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:31:44.894Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae6730d1f2d49a4d5e7a0"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:33:07.533Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae68e0d1f2d49a4d5e7a2"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel companii",
+  "date": {
+    "$date": "2021-10-04T11:33:34.964Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae6940d1f2d49a4d5e7a3"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:33:40.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae6d10d1f2d49a4d5e7a4"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:34:41.340Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615ae6dc0d1f2d49a4d5e7a5"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:34:52.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615aeb7ee0033f31e452b42f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T11:54:38.829Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af37fe0033f31e452b431"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel companii",
+  "date": {
+    "$date": "2021-10-04T12:28:47.056Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af3d8e0033f31e452b432"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Exportare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-04T12:30:16.700Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af421e0033f31e452b433"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-04T12:31:29.924Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af426e0033f31e452b434"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Ștergere",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-04T12:31:34.925Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af444e0033f31e452b438"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:32:04.048Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af568e0033f31e452b439"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-04T12:36:55.998Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af64de0033f31e452b43a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:40:45.758Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af67ee0033f31e452b43b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:41:34.794Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af6c2e0033f31e452b43f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:42:42.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af6d6e0033f31e452b440"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:43:02.453Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af6e2e0033f31e452b441"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:43:14.145Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af700e0033f31e452b442"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:43:44.146Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af727e0033f31e452b443"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:44:23.718Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af72ce0033f31e452b444"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:44:28.939Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af79ae0033f31e452b445"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:46:18.165Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af7dbe0033f31e452b446"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-04T12:47:23.764Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af838e0033f31e452b448"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel companii",
+  "date": {
+    "$date": "2021-10-04T12:48:56.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af86de0033f31e452b449"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:49:49.052Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af875e0033f31e452b44a"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:49:57.740Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615af8eae0033f31e452b44c"
+  },
+  "name": "dsadasdas",
+  "surname": "dsadasdas",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T12:51:54.830Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b78b96c8ffe0af047ac67"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T21:57:13.621Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b79866c8ffe0af047ac68"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T22:00:38.517Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b79ac6c8ffe0af047ac69"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T22:01:16.970Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615b7aaa6c8ffe0af047ac6a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-04T22:05:30.264Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c4f3776355f523cd3fa7b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:12:23.350Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c4f3b76355f523cd3fa7c"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:12:27.583Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c54a69a422d3b78c23171"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:35:34.207Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c54be9a422d3b78c23172"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-05T13:35:58.384Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c55359a422d3b78c23173"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:37:57.083Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c55459a422d3b78c23174"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:38:13.821Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c55619a422d3b78c23177"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:38:41.743Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c557b9a422d3b78c23178"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:39:07.736Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "615c55859a422d3b78c23179"
+  },
+  "name": "dsadsadsa",
+  "surname": "dsadas",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-05T13:39:17.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616436efd3e29636e883a73a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:06:55.025Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643752d3e29636e883a73b"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:08:34.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643ca3d3e29636e883a73c"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:31:15.179Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643caad3e29636e883a73d"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:31:22.120Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643cc9d3e29636e883a73f"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:31:53.659Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643ce4d3e29636e883a740"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Exportare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-11T13:32:20.108Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643cf7d3e29636e883a741"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-11T13:32:39.149Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643d27d3e29636e883a742"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:33:27.033Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643d70d3e29636e883a743"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:34:40.515Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61643d7ad3e29636e883a744"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-11T13:34:50.864Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61659da7b118e23f6423ac60"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-12T14:37:27.951Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61671e9b694cc63c7ce7e198"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T17:59:55.034Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616724d3694cc63c7ce7e199"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T18:26:27.381Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616724df694cc63c7ce7e19a"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T18:26:39.567Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616724e5694cc63c7ce7e19b"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T18:26:45.130Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "616725c7694cc63c7ce7e19d"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Editare",
+  "table": "Tabel intrări",
+  "date": {
+    "$date": "2021-10-13T18:30:31.672Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6167260f694cc63c7ce7e19e"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T18:31:43.638Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61672685694cc63c7ce7e19f"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-13T18:33:41.306Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781903418ef44f7c12b5b3"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:04:35.270Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781914418ef44f7c12b5b4"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:04:52.409Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781d0a418ef44f7c12b5b5"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:21:46.331Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781f2f418ef44f7c12b5b6"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:30:55.709Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781f4c418ef44f7c12b5b7"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:31:23.975Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781f7f418ef44f7c12b5b8"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:32:15.385Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61781f95418ef44f7c12b5b9"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T15:32:37.897Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782b92418ef44f7c12b5ba"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:23:46.816Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782bf3418ef44f7c12b5bc"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:25:23.694Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c01418ef44f7c12b5bd"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Editare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:25:37.649Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c05418ef44f7c12b5be"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Ștergere",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:25:41.253Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c16418ef44f7c12b5c0"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel companii",
+  "date": {
+    "$date": "2021-10-26T16:25:58.067Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c67418ef44f7c12b5c1"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:27:19.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c6d418ef44f7c12b5c2"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:27:25.643Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c75418ef44f7c12b5c3"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Adăugare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:27:33.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c7f418ef44f7c12b5c4"
+  },
+  "name": "Stoicescu",
+  "surname": "Sebasti",
+  "action": "Delogare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:27:42.992Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61782c85418ef44f7c12b5c5"
+  },
+  "name": "Sebi",
+  "surname": "Marian",
+  "action": "Logare",
+  "table": "Tabel utilizatori",
+  "date": {
+    "$date": "2021-10-26T16:27:49.093Z"
+  },
+  "__v": 0
+}]
